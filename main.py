@@ -1,2 +1,2 @@
-print ("fdsfsdfsD")
-
+def new()
+    print("new")
